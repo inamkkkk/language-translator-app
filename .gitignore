@@ -1,0 +1,35 @@
+# Flutter/Dart related
+.dart_tool/
+.idea/
+.metadata
+*.iml
+packages/
+.packages
+*.log
+/build/
+/ios/Flutter/App.framework/
+/ios/Flutter/Flutter.framework/
+/android/.gradle/
+/android/app/build/
+/android/build/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# User specific files
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Dependency directories (remove if not needed)
+node_modules/
+
+# Generated files that shouldn't be checked in
+*.g.dart
+*.pb.dart
+
+# Other
+.env
